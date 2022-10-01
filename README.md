@@ -1,27 +1,3 @@
-# About the Project
-
-## State Farm offers many types of insurance outside of Auto and Home (i.e Pet insurance, Life insurance, etc). 
-- This project will create a mobile friendly app that introduces one or more of State Farms other offerings in a way that is easy for the customer to understand.
-
-
-## We may use any tech stack and https://statefarm.com as a resource
-
-### Tech Stack:
-- React
-- Node
-- Express
-- MongoDB
-- Mongoose
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-
-
-### User Stories:
-- As a user, I want to be able to see a list of all the products that State Farm offers.
-- As a user, I want to be able to click on a product and see a description of that product.
-
 PET MATCH
 ----
 
@@ -39,9 +15,8 @@ TABLE OF CONTENTS   `ʕノ•ᴥ•ʔノ ︵ ┻━┻`
 -----------------
 
 - [**Introduction**](#-introduction)
-- [**Installation**](#-installation)
+- [**Tech Stack**](#-techstack)
 - [**Features**](#-features)
-- [**Usage**](#-usage)
 - [**Contributors**](#-contributors)
 - [**Contact**](#-contact)
 - [**License**](#-license)
@@ -50,7 +25,7 @@ TABLE OF CONTENTS   `ʕノ•ᴥ•ʔノ ︵ ┻━┻`
 INTRODUCTION   `(｡^‿^｡)`
 ------------
 
-**YAPI** is an API reviewing app, it allows users to search and find different api’s. In this app, user’s can go through the comments and ratings of previous users to make a decifer an opinion of their own about an API. Users are able to search API’s by their name or category. When finding an individual API, the average rating is displayed as well as the description. At the selected API, a user can leave a review with a comment and rating for other user’s to see.
+**Pet Match** is a tinder-clone app for pets, it allows users to match with other pets for potential playdates. 
 
 
 TECH STACK   `⊂(￣(ｴ)￣)⊃`
@@ -69,9 +44,10 @@ TECH STACK   `⊂(￣(ｴ)￣)⊃`
 
 FEATURES   `¯\_(シ)_/¯`
 --------
-- Users have the ability search and API by name or category.
-- Users can Login, Sign up, and Log out.
-- Once logged in users can leave a review with a rating and comment. 
+- Users have the ability swipe a card left or right.
+- Users can "undo" a swipe and go back to a previous card.
+- Pets are able to match with other profiles.
+- Once matched the chat feature is applied to profiles. 
 
 
 CONTRIBUTORS  `ʕっ• ᴥ • ʔっ`
