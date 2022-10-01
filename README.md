@@ -25,7 +25,7 @@ TABLE OF CONTENTS   `ʕノ•ᴥ•ʔノ ︵ ┻━┻`
 INTRODUCTION   `(｡^‿^｡)`
 ------------
 
-**Pet Match** is a tinder-clone app for pets, it allows users to match with other pets for potential playdates. 
+**Pet Match** is a tinder-clone app for pets, it allows users to match with other pets for potential playdates. Users are able to swipe left and right on other pets viewing other furry friends. While swiping, users have the ability to go back on the previous card.
 
 
 TECH STACK   `⊂(￣(ｴ)￣)⊃`
